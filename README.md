@@ -1,2 +1,0 @@
-# ojisanMail
-Created with CodeSandbox
